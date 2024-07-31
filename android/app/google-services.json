@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95042097951",
+    "project_id": "loj-backend",
+    "storage_bucket": "loj-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95042097951:android:ee2113280c5ce73d2a562a",
+        "android_client_info": {
+          "package_name": "com.tismstudios.lojservers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKhCr50iiJvx1YY7-Gf6R_2IZxBHXq8oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
